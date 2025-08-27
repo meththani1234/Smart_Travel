@@ -15,6 +15,7 @@ const travelTips = {
   "internet": "You can buy local SIM cards from Dialog or Mobitel at the airport or shops. They offer affordable data packages.",
   "packing": "Pack light clothes, sun protection, a raincoat (especially if visiting during monsoon), and comfortable shoes for walking and hiking.",
   "thanks": "You’re welcome! Have a fantastic trip to Sri Lanka! 🇱🇰",
+  "thank you": "You’re welcome! Have a fantastic trip to Sri Lanka! 🇱🇰",
 };
 
 function sendMessage() {
